@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abdullah-manga/abdullah-manga/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/abdullah-manga/abdullah-manga/output/snake.svg" alt="Snake animation" />-->
 
 ###
