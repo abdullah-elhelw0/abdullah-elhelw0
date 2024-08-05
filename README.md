@@ -56,8 +56,4 @@
   <img src="https://streak-stats.demolab.com?user=abdullah-manga&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/abdullah-manga/abdullah-manga/output/snake.svg" alt="Snake animation" />
-
-###
