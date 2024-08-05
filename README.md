@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/l41lPc9dT91glxsmQ/giphy.gif?cid=ecf05e47i2fv1reyuyhgnihdyhw88f9119i1j8rrl62akyz5&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
@@ -7,9 +9,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
 
 ###
 
@@ -59,6 +58,6 @@
 
 ###
 
-<!--<img src="https://raw.githubusercontent.com/abdullah-manga/abdullah-manga/output/snake.svg" alt="Snake animation" />-->
+<img src="https://raw.githubusercontent.com/abdullah-manga/abdullah-manga/output/snake.svg" alt="Snake animation" />
 
 ###
