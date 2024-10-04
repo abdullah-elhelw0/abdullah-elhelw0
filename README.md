@@ -19,7 +19,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-  I'm Abdullah from Egypt.<br><br>
+  I'm Abdullah Mohammed Ibrahim<br><br>
   - 🔭 I’m working as a Data Analyst.<br>
   - 📚 I'm currently learning BI Development.<br>
   - 📊 With hands-on experience in data analysis, I specialize in leveraging Python, SQL, and Power BI to extract insights and create interactive dashboards.<br>
@@ -53,9 +53,9 @@
 <h3 align="left">📊 What I Do</h3>
 
 <p align="left">
-  - **Data Analysis**: I leverage Python, SQL, and Power BI to transform data into actionable insights.<br>
-  - **SQL**: I enjoy querying complex datasets like the AdventureWorks database to discover trends.<br>
-  - **Power BI**: I create dashboards to visualize data insights, covering various domains like HR analysis and product sales.
+  - Data Analysis: I leverage Python, SQL, and Power BI to transform data into actionable insights.<br>
+  - SQL: I enjoy querying complex datasets like the AdventureWorks database to discover trends.<br>
+  - Power BI: I create dashboards to visualize data insights, covering various domains like HR analysis and product sales.
 </p>
 
 <h3 align="left">📚 Current Focus</h3>
