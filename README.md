@@ -61,9 +61,9 @@
 <h3 align="left">📚 Current Focus</h3>
 
 <p align="left">
-  - **Real-World Projects**: I’m working on data analysis projects involving real company datasets, including employee and product sales analysis.<br>
-  - **Advanced Visualizations**: I'm exploring new ways to visualize data, including mini charts and dynamic elements to make dashboards more engaging.<br>
-  - **In-Depth Analysis**: I focus on deriving deep analytical insights, such as employee performance patterns and product profitability.
+  - Real-World Projects: I’m working on data analysis projects involving real company datasets, including employee and product sales analysis.<br>
+  - Advanced Visualizations: I'm exploring new ways to visualize data, including mini charts and dynamic elements to make dashboards more engaging.<br>
+  - In-Depth Analysis: I focus on deriving deep analytical insights, such as employee performance patterns and product profitability.
 </p>
 
 <h3 align="left">🚀 Future Goals</h3>
