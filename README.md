@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/l41lPc9dT91glxsmQ/giphy.gif?cid=ecf05e47i2fv1reyuyhgnihdyhw88f9119i1j8rrl62akyz5&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://cdna.artstation.com/p/assets/images/images/025/077/866/original/femke-brouwer-ezgif-com-gif-maker-4.gif?1584536879)"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lnMDd1M3M1czh6ODM1YW54amhmMWI4ZGk4bzYwZ3YwcDdueHA3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiIzJSKB4l7xTouE8/giphy.gif" />
 </div>
 
 ###
