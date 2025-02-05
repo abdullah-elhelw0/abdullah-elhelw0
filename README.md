@@ -16,14 +16,14 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
   I'm Abdullah Mohammed Ibrahim<br><br>
-  - 🔭 I’m working as a Data Analyst.<br>
-  - 📚 I'm currently learning BI Development.<br>
-  - 📊 With hands-on experience in data analysis, I specialize in leveraging Python, SQL, and Power BI to extract insights and create interactive dashboards.<br>
-  - 🎓 I'm a Business Information Systems (BIS) student at Helwan University, passionate about transforming raw data into actionable insights.
+  - I’m working as a Data Analyst.<br>
+  - I'm currently learning BI Development.<br>
+  -  With hands-on experience in data analysis, I specialize in leveraging Python, SQL, and Power BI to extract insights and create interactive dashboards.<br>
+  - I'm a Business Information Systems (BIS) student at Helwan University, passionate about transforming raw data into actionable insights.
 </p>
 
 ###
@@ -56,7 +56,7 @@
   - Power BI: I create dashboards to visualize data insights, covering various domains like HR analysis and product sales.
 </p>
 
-<h3 align="left">📚 Current Focus</h3>
+<h3 align="left"> Current Focus</h3>
 
 <p align="left">
   - Real-World Projects: I’m working on data analysis projects involving real company datasets, including employee and product sales analysis.<br>
@@ -64,7 +64,7 @@
   - In-Depth Analysis: I focus on deriving deep analytical insights, such as employee performance patterns and product profitability.
 </p>
 
-<h3 align="left">🚀 Future Goals</h3>
+<h3 align="left"> Future Goals</h3>
 
 <p align="left">
   - Gain professional experience in a data-focused internship to expand my industry knowledge.<br>
@@ -73,7 +73,7 @@
 
 ###
 
-<h3 align="left">🔥 My Stats:</h3>
+<h3 align="left"> My Stats:</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abdullah-manga&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
