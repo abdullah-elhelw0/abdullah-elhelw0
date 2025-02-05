@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">📊 What I Do</h3>
+<h3 align="left"> What I Do</h3>
 
 <p align="left">
   - Data Analysis: I leverage Python, SQL, and Power BI to transform data into actionable insights.<br>
