@@ -16,10 +16,11 @@
 ## Quick Navigation
 
 - **New to GitHub?**  
-  Check out my [Projects Repository](/repositories) to explore my latest work. If you find something interesting, consider giving it a star!
+  Check out my [Projects Repository](https://github.com/abdullah-manga?tab=repositories) to explore my latest work.
 
-- **Experienced Developer?**  
-  Feel free to dive into the code, fork what interests you, and collaborate.
+- **Not Your First Time Here?**  
+  You already know the drill! Explore my dashboards, insights, and reports—feel free to fork, analyze, and build upon them.
+
 
 ---
 
@@ -38,6 +39,7 @@ I am actively seeking my first full-time role as a **Data Analyst**, If you're l
 ---
 
 ## Tech Stack  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -53,7 +55,7 @@ Reach me at:
 
 ---
 
-**Thanks for visiting! Looking forward to engaging with the data community.**
+**Thanks for visiting! Looking forward to hear from you**
 
 <h3 align="left"> My Stats:</h3>
 
