@@ -26,7 +26,7 @@
 
 ## About Me
 
-I am a ** Business Information Systems (BIS) Grad** . My expertise includes:
+I am a **Business Information Systems (BIS) Grad** . My expertise includes:
 
 - **Data Visualization** (Power BI, Tableau)
 - **Data Analysis** (SQL, Python, Excel)
