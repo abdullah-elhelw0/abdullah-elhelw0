@@ -26,7 +26,7 @@
 
 ## About Me
 
-I am a **Senior Business Information Systems (BIS) student** currently enhancing my data skills as a **Microsoft Power BI Trainee** at **DEPI**. My expertise includes:
+I am a ** Business Information Systems (BIS) Grad** . My expertise includes:
 
 - **Data Visualization** (Power BI, Tableau)
 - **Data Analysis** (SQL, Python, Excel)
