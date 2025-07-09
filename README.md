@@ -16,7 +16,7 @@
 ## Quick Navigation
 
 - **New to GitHub?**  
-  Check out my [Projects Repository](https://github.com/abdullah-elhelw0?tab=repositories) to explore my latest work.
+  Check out my [Portfolio]([https://abdullah-elhelw.netlify.app/]) to explore my latest work.
 
 - **Not Your First Time Here?**  
   You already know the drill! Explore my dashboards, insights, and reports—feel free to fork, analyze, and build upon them.
